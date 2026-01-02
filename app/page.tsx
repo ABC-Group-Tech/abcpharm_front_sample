@@ -34,7 +34,7 @@ export default function MainV2Page() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl ml-80">
             <h2 className="text-3xl md:text-4xl font-bold mb-8">About</h2>
-            <h3 className="text-2xl md:text-3xl font-bold mb-6 text-primary">글로벌 의약바이오 통합 기업 test</h3>
+            <h3 className="text-2xl md:text-3xl font-bold mb-6 text-primary">글로벌 의약바이오 통합 기업</h3>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
                 ABC PHARM은 글로벌 최첨단 의약바이오 신약 개발에 특화된 플랫폼을 통한 제품들을 글로벌 시장으로
