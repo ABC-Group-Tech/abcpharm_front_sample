@@ -21,7 +21,7 @@ export default function MainV2Page() {
           <div className="absolute inset-0 bg-black/40" />
         </div>
         <div className="relative z-10 text-center text-white px-4">
-          <p className="text-sm md:text-base mb-2 text-white/90">융합 기술, 개방형 R&D 전략을 통한</p>
+          <p className="text-sm md:text-base mb-2 text-white/90">융합 기술, 개방형 R&D 전략을 통한 test</p>
           <h1 className="text-4xl md:text-6xl font-bold mb-8">Total Bio Solution</h1>
           <Button variant="outline" className="bg-transparent border-white text-white hover:bg-white/10">
             Read More
